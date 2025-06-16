@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Rafi! Newbie Coder Here 👋
 
 <!--
 **rafi-shammim/rafi-shammim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
